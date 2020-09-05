@@ -1,0 +1,15 @@
+*deepl.txt*
+
+==============================================================================
+INTERFACE						*deepl-interface*
+
+------------------------------------------------------------------------------
+FUNCTIONS						*deepl-functions*
+
+							*deepl#show_translated_text*
+deepl#show_translated_text(source_lang, target_lang)
+        Echo the translation results of the selection
+
+							*deepl#replace_to_translated_text*
+deepl#show_translated_text(source_lang, target_lang)
+        Replaced by selection translation results
