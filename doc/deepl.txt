@@ -3,6 +3,9 @@
 ==============================================================================
 USAGE							*deepl-usage*
 
+To use, please set your DeeplAPI key by g:deepl#api_key or environment variable
+DEEPL_API_KEY.
+
 Key mapping example
 >
 vmap zj :call deepl#replace_to_translated_text('', 'JA')<CR>gvgq
